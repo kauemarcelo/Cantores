@@ -39,4 +39,18 @@ let dados = [
         tags: "Pelo amor de Deus"
 
     },
+    {
+        titulo: "Fernando Zor",
+        descricao: "É um dos pilares da dupla sertaneja Fernando & Sorocaba. Além de sua voz marcante e presença de palco, Fernando se destaca por sua versatilidade como músico, compositor e produtor.",
+        link: "https://pt.wikipedia.org/wiki/Fernando_Zor#:~:text=Fernando%20Zorzanello%20Bonif%C3%A1cio%2C%20mais%20conhecido,a%20dupla%20sertaneja%20Fernando%20%26%20Sorocaba.",
+        tags: "Churrasco onfire"
+
+    },
+    {
+        titulo: "Sorocaba",
+        descricao: "mais conhecido como Sorocaba, é a outra metade da dupla sertaneja Fernando & Sorocaba. Além de sua voz marcante, Sorocaba se destaca como um compositor talentoso, multi-instrumentista e produtor musical de renome.",
+        link: "https://pt.wikipedia.org/wiki/Sorocaba_(cantor)",
+        tags: "Churrasco onfire"
+
+    },
 ];
