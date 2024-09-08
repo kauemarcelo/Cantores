@@ -53,4 +53,33 @@ let dados = [
         tags: "Churrasco onfire"
 
     },
+    {
+        titulo: "Chitãozinho",
+        descricao: "José Lima Sobrinho, mais conhecido como Chitãozinho, é uma das metades da dupla sertaneja Chitãozinho & Xororó. Nascido em Astorga, Paraná, ele, juntamente com seu irmão Durval (Xororó), formou uma das duplas mais importantes e influentes da música sertaneja brasileira.",
+        link: "https://pt.wikipedia.org/wiki/Chit%C3%A3ozinho",
+        tags: "Galopeira"
+
+    },
+    {
+        titulo: "Xororó",
+        descricao: "Durval de Lima, mais conhecido como Xororó, é um dos pilares da dupla sertaneja Chitãozinho & Xororó. Nascido em Astorga, Paraná, ele, juntamente com seu irmão mais velho Chitãozinho, formou uma das dupas mais importantes e influentes da música sertaneja brasileira.",
+        link: "https://pt.wikipedia.org/wiki/Xoror%C3%B3",
+        tags: "Galopeira"
+
+    },
+    {
+        titulo: "Henrique Reis",
+        descricao: "Henrique Reis é um dos integrantes da dupla sertaneja Henrique e Juliano. Conhecido por sua voz marcante e presença de palco contagiante, Henrique, juntamente com seu irmão Juliano, forma uma das dupas mais populares e queridas do Brasil.",
+        link: "https://pt.wikipedia.org/wiki/Henrique_%26_Juliano#:~:text=Ricelly%20Henrique%20Tavares%20Reis%2C%20o,Influenciados%20pelo%20sucesso%20da%20dupla",
+        tags: "flor beija-flor"
+
+    },
+    {
+        titulo: "Juliano Reis",
+descricao: "Edson Alves dos Reis Júnior, mais conhecido como Juliano, é a outra metade da dupla sertaneja Henrique e Juliano. Nascido em Palmeirópolis, Tocantins, Juliano é conhecido por sua versatilidade como músico, compositor e produtor musical.",     
+   link: "https://pt.wikipedia.org/wiki/Henrique_%26_Juliano#:~:text=Ricelly%20Henrique%20Tavares%20Reis%2C%20o,Influenciados%20pelo%20sucesso%20da%20dupla",
+        tags: "flor beija-flor"
+
+    },
+
 ];
