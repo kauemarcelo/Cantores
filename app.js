@@ -5,7 +5,7 @@ function pesquisar() {
     let campoPesquisa = document.getElementById 
     ("campo-pesquisa").value 
 
-    if(!campoPesquisa) {
+    if(!campoPesquisa) {''
         section.innerHTML = "Nada foi encontrado. Você precisa digitar o nome do cantor"
         return 
     }

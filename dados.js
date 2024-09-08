@@ -17,5 +17,11 @@ let dados = [
         descricao: "Cantora sertaneja brasileira, conhecida como a Boiadeira. Se destacou no cenário musicalpor sua voz potente e letras que retratam a vida no campo. É uma das maiores revelações do sertanejo nos últimos anos.",
         link: "https://pt.wikipedia.org/wiki/Ana_Castela",
         tags: "boiadeira"
+    },
+    {
+        titulo: "Marilia Mendonça",
+        descricao: "Marília Dias Mendonça foi uma cantora, compositora e instrumentista brasileira que deixou um legado inesquecível na música sertaneja. Nascida em Cristianópolis, Goiás, em 1995, ela rapidamente se tornou um dos maiores nomes do gênero, conquistando o coração de milhões de fãs com sua voz marcante e letras que falavam diretamente ao coração.",
+        link: "https://pt.wikipedia.org/wiki/Mar%C3%ADlia_Mendon%C3%A7a",
+        tags: "Feminejo"
     }
 ];
